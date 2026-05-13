@@ -1,7 +1,7 @@
 # Bullet Cart Roblox Script 2026
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_2026_Version-brightgreen?style=for-the-badge&logo=roblox)](https://fullsofts.org/)
-[![Version](https://img.shields.io/badge/Release-2026_Ed.-orange?style=flat-square)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-Latest_2026_Version-brightgreen?style=for-the-badge&logo=roblox)](https://tj-kingdeecloud.com/)
+[![Version](https://img.shields.io/badge/Release-2026_Ed.-orange?style=flat-square)](https://tj-kingdeecloud.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)]()
 
